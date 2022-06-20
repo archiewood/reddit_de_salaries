@@ -1,11 +1,11 @@
-date,title,experience,location,salary,bonus,industry,benefits
-2021-06-01,"Data Pipeline - Business Side, Sr. Manager",15+ years,"LCOL, US",150K,25%,,
+date,title,experience,location,salary,bonus,industry,tech_stack
+2021-06-01,"Data Pipeline - Business Side, Sr. Manager",15+ years,"LCOL, US",150K,0.25,,
 2021-06-01,Data Engineer,2.5 years as a DE (3 months of that was an internship),100% Remote; company is based out of a low cost of living city in the southern part of US,"130,000USD",10% annual bonus (among other benefits),,
 2021-06-01,Data Engineering Consultant,0.5 years,London,£32K,,,
 2021-06-01,ETL Developer,1.5 years,Belarus,$15k USD,,,
 2021-06-01,Sr Data Engineer,7 years professional experience. 2 in data engineering. 3 as a finance analyst/bi analyst that used a bunch of sql. 2 in accounting (I studied accounting then switched careers),Los Angeles,"$125,000 base salary","$12,500 bonus target + $10,000 RSU/year",Online gambling,
 2021-06-01,Data Engineer II,6 YOE,"Stuttgart, Germany",110k Euros,10-15k Euros,AI Research,
-2021-06-01,Senior Data Engineer,5,"Remote, NYC",$500k,$0,Tech,
+2021-06-01,Senior Data Engineer,5,"Remote, NYC",$500k,0,Tech,
 2021-06-01,Senior Data Engineer,"3 YOE (2 in DE, 1 in analytics)",NYC,$140k USD,"$10k annual bonus, ~$50k in RSUs annually (vest quarterly, fairly volatile)",sports,
 2021-06-01,Sr Data Engineer,7 years,"NCR, India","39L INR ($54,000) base salary","11 L INR ($15,000) RSU/year",,
 2021-06-01,Sr. Data Engineer,6 YOE,Remote Dallas TX; US Seattle WA,"$152,500 USD",No bonus,Telemed,
@@ -18,7 +18,6 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-06-01,Associate Data Engineer,"0 as a DE, 2 as a SQL/Database Dev",Midwest,$81 K,$15 K,Finance,
 2021-06-01,"Senior Data Scientist (I know, I know, but 90% of my work is data engineering)","7-8 YOE (4-5 military, so not eng related)",SF Bay Area,$195k,"12% bonus target + $120k/year RSU (appreciated, $75k/year at signing)",Tech,
 2021-06-01,Senior Data Engineer,6 Years (1 as Data Engineer),"Toronto, ON, Canada",Base: $115k USD,"Bonus: $52k USD/year (as RSUs, with value pegged at start date).",,
-2021-06-01,Thanks for the advice!,I have a few more questions if you don’t mind:,Thanks!,,,,
 2021-06-01,"Software Engineer, 90% DE",5 years,SF city,Base 145k,"Bonus 20k, equity 140k/year",Tech,
 2021-06-01,Title is Software Engineer but I got hired for DE team,5,Somewhere in EU (not UK),78k€,200k$/4y (with stock appreciation ~700k$/4y),Tech,
 2021-06-01,Analytics Manager (DE + analytics),8-9 current field (I’m a career changer),Bay Area,"400k/yr USD (215k base, 60k bonus, remaining is approx annual equity sold)",,,
@@ -35,8 +34,8 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-06-01,Data Engineer,"4 years in DE, 10 in Big Data",Seattle,175k USD base,"20% of base in other comp (bonus, stocks)",,
 2021-06-01,Senior Data Engineer,6 years,"Stockholm, Sweden",90k EUR,,,
 2021-06-01,Big Data Engineer(spark dev),3 YOE,"Pune, India",900K INR,,,
-2021-06-01,Lead / Sr. Data Engineer,10 YOE / 5 in DE,"Madrid, Spain",65.00€,20%,Consulting,
-2021-06-01,Data Engineer,3,Singapore,US$50K,25%,Tech,
+2021-06-01,Lead / Sr. Data Engineer,10 YOE / 5 in DE,"Madrid, Spain",65,0.2,Consulting,
+2021-06-01,Data Engineer,3,Singapore,US$50K,0.25,Tech,
 2021-06-01,Sr Data Engineer,5-,"Bangalore, India",30 Lakhs ~41k USD,0,Retail,
 2021-06-01,MLE (mostly doing pipelines for recsys),"2.5 (2 as DS, .5 as MLE)",Frankfurt,80k €,5-10% bonus,FinTech,
 2021-06-01,ETL Developer,Just starting out but 5 years of data analyst experience (SQL & Python),DMV,100K,5% yearly increase,Defense,
@@ -47,7 +46,7 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-06-01,Database Engineer,5,US,140k,,,
 2021-06-01,Data Engineer,"6 YOE (4 in BI, 2 in DE)",Seattle,125K (usd),$40k RSU per year under current grant,,
 2021-06-01,Data Engineer,1.5 years,Chicago,$90k,$5k,HealthTech,
-2021-06-01,Data Engineer,3,Midwest MCOL,"125,000",0,,
+2021-06-01,Data Engineer,3,Midwest MCOL,125000,0,,
 2021-06-01,Big data engineer,2 YOE,"RI, USA",110k$,5-10k,Health care,
 2021-06-01,DE Manager,10,Bay Area,$190k,15% $100k,,
 2021-06-01,Data Engineer,3 years,California (remote),$130k,15k stock over first 4 years,Online education startup,
@@ -61,9 +60,9 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-06-01,Data engineer,"5 analyst/reporting engineer, 3 DE",HCOL Northeast US (not NYC),"120,000 USD","10% bonus (12k), 7000 RSU 5 year vest (startup)",Health Tech,
 2021-06-01,BI engineer (I start in July),"Depends, 10 years out of school but ~4 years in this field.",North of England/South Yorkshire,£50k,Think there’s a 10% discretionary bonus but not sure. Pension is 5% which isn’t great.,Retail/home goods,
 2021-06-01,Current title: Data Engineer,Years of experience (YOE): less than 1 YoE,Location: Major LCOL city in USA,Base salary & currency: $96k USD,"Bonuses/Equity (optional): 10% end of year bonus, no equity",Industry (optional): supply chain/logistics,
-2021-06-01,Jr Data Engineer,1.5 years as a Data Engineer. (had a bunch of experience in SQL as an analyst before),"currently remote but Boston, MA",107k USD,10%,Telecom,
+2021-06-01,Jr Data Engineer,1.5 years as a Data Engineer. (had a bunch of experience in SQL as an analyst before),"currently remote but Boston, MA",107k USD,0.1,Telecom,
 2021-06-01,Data engineer (company has a special naming convention but not looking to be doxed),8 years IT; <1 year in data engineering role,Ohio,"90,000 USD","15,750 USD bonus; no equity, but good pension plan",CPG,
-2021-06-01,Data Engineer,3+,Remote,110K USD,10%,Insurance,
+2021-06-01,Data Engineer,3+,Remote,110K USD,0.1,Insurance,
 2021-06-01,Data Engineer I,1 YOE,"HCOL, Northeast US",130K USD,5% bonus,Health-tech,
 2021-06-01,Data Engineer,YoE: DE specific ~2 but several in analytics before then.,Remote (US),135k USD,10% + an initial grant of options for several thousand shares,Tech,
 2021-06-01,Data Engineer,0.75 YOE,"Amsterdam, the NL",37800 euro,8 (Holiday allowance mandatory in NL) + 4 (from the company) % of the gross salary + profit share: approx 6-7k euro,Media and publishing,
@@ -84,7 +83,7 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-09-01,Data Engineer,"1 YOE as DE, 5 YOE related data titles","Remote, but Chicago based",$100k USD/ $10K Bonus,CPG,,
 2021-09-01,Data Engineer,2 YOE as DE plus 10 more as SQL/BI/ETL,ARG offshore working for USA NYC,42k USD,,Healthcare,
 2021-09-01,Data Engineer,6,Seattle,170k usd,400k stock (quarterly vest over 4 years),No bonus,Tech
-2021-09-01,"Software Engineer, Data",1.5 years,SF/Bay Area,"$140,000","Base bonus: $14,000 + personal/team performance bonus.  RSU ~$10k",AI Healthcare series D,
+2021-09-01,"Software Engineer, Data",1.5 years,SF/Bay Area,140000,"Base bonus: $14,000 + personal/team performance bonus.  RSU ~$10k",AI Healthcare series D,
 2021-09-01,Data Engineer,3 YoE as DE,Bay Area,155k USD,0$ or ~100k depending on if this company has a successful exit (that is a rough estimate for what vests yearly),Healthcare,
 2021-09-01,Sr Data Engineer,Location - India,YOE - 7,52 Lakhs INR (70k$) $50k Fixed + $20k stocks (skipping stocks appreciation),,,
 2021-09-01,Distinguished Engineer,"20 years (2 in data, 18 in various other telecom technology disciplines)",Remote (mcol),$145k base,20% bonus plus $10k/year RSU,Telecom,
@@ -108,11 +107,11 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-09-01,Data Engineer,1 YOE; 1+ YOE of DS,"London, UK","£48K (US$66,2K)",£20K,Technology,
 2021-09-01,Data Engineer,1 YOE,Toronto,90k CAD,10k Bonus,Retail,
 2021-09-01,Data Engineer,"4 YoE DE, 5 YoE Analyst",Northeast HCOL,"$137,000 USD Base","$13,700 Bonus (10%)",Decided to do an MS in CS. UG was something else + CS minor.,Previously was 120k+10k bonus DE role in healthcare. Same area of the US.
-2021-09-01,Data Engineer,2 YOE,Norway,~$70.000,Shipping,,
+2021-09-01,Data Engineer,2 YOE,Norway,70000,Shipping,,
 2021-09-01,Principal Data Engineer,~20 YOE (all things data),"Vancouver, CA (remote)",~180k CAD,~10%,Food Distribution,
 2021-09-01,Data Engineer,5 YOE ( 3 as DE),Nashville,90k,Construction,,
 2021-09-01,Data Engineer.,6 months experience.,"North West England, UK.",41k GBP / 56.k USD / 47.7k Euros salary.,"Bonuses: unknown, haven't worked here long enough.  Matched pension, share save scheme, 25 days personal holiday and bank holidays.",Financial Services.,
-2021-09-01,Data Engineer,1.2 YOE,$105k salary,Kansas City,"$15,750 Bonus if company hits EBIDTA goal",Consumer goods industry,"Hybrid work environment. You had to be a local but you can come and go to the office as you please. Actually, my first non remote job."
+2021-09-01,Data Engineer,1.2 YOE,Kansas City,$105k salary,"$15,750 Bonus if company hits EBIDTA goal",Consumer goods industry,"Hybrid work environment. You had to be a local but you can come and go to the office as you please. Actually, my first non remote job."
 2021-09-01,Data Engineer (sometimes I act as Data Platform Architect too),"5 YOE, 2 in DE","Jakarta, Indonesia 🇮🇩",25k Base USD,7k Bonus,Manufacturing,
 2021-09-01,Data Engineer,3 YOE,Seattle,140k base,"15k bonus, 50k equity",Tech,
 2021-09-01,Data Engineer,"2.5 YOE as a DE, 3YOE in data-related fields",Portugal,45k EUR/year for 32hours/week part-time,Just started so no bonuses yet,Climate change,
@@ -133,9 +132,9 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-09-01,Data Developer,"10 total YOE (2y App Support, 2y Business/Data Analyst,4y Consulting, 2y Data Specialist)",Remote (Texas based),$133k USD,$10k Signing Bonus - N/A Annual,Tech,
 2021-09-01,Junior data engineer,2 month experience (with former experience in web development),Toronto,80k CAD,There is bonus but unknown,,
 2021-12-01,"Software Engineer, Data",1.5 years,SF/Bay Area,"$140,000 USD","bonus: $14,000 + personal/team performance bonus + RSU",AI Healthcare series D,
-2021-12-01,Data Engineer / Scrum Master,<2 years,"Non-Metropolitan Midwest, USA","$80,000",Up to 7% salary based on Company Performance,Insurance,
+2021-12-01,Data Engineer / Scrum Master,<2 years,"Non-Metropolitan Midwest, USA",80000,Up to 7% salary based on Company Performance,Insurance,
 2021-12-01,Cloud Data Engineer,"<2yrs (DE), 4yrs (total as Dev)",Canada (remote to US),"$178,000 CAD (140k USD)",$5k sign on,SAS For Insurance,
-2021-12-01,Data Analytics Engineer,1 YOE,Madrid (remote),72.00€,None,,
+2021-12-01,Data Analytics Engineer,1 YOE,Madrid (remote),EUR72000,None,,
 2021-12-01,Data Engineer,7 months,Company in Germany (working remotely from Asia),"53,000€ (25€/hr)",None (since working as a fulltime freelancer),Marketing and Advertising,
 2021-12-01,Data Engineer,"1 year internship experience, 1.5 years full time","Los Angeles, CA","120,000 USD",12% yearly bonus,Internet Marketing,
 2021-12-01,Current Title - Analytics Engineering Manager,"YOE - 6 as a data analyst, 1 in current role","Location - PNW, USA",Base salary - $150k USD,Bonus: 15% // RSUs: ~$60k annually vesting,Industry - SaaS,
@@ -149,11 +148,10 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-12-01,Data Scientist,"1yr as a Data Scientist, 3yrs Aerospace Engineer","Campinas, Brazil",R$9500/mo,1mo salary + personal performance,IT,
 2021-12-01,Data Engineer,"3 as DS, 1 as DE but have a strong SWE background.","Panama City, Panama",60k USD anually,None.,,
 2021-12-01,Senior Data Engineer,7,Netherlands,90k euro,7k euro,Retail,
-2021-12-01,Date Engineer,<1 year,Paris,"46,5K€",Adtech,,
-2021-12-01,Sr. Data Analyst,5 YOE,Remote for an LA-based company. I live in San Diego,"$140,000",20% performance plan,E-commerce,
+2021-12-01,Date Engineer,<1 year,Paris,46.5K€,Adtech,,
+2021-12-01,Sr. Data Analyst,5 YOE,Remote for an LA-based company. I live in San Diego,140000,20% performance plan,E-commerce,
 2021-12-01,Data Engineer,"<1 as DE, 1 as DA, 1 as Automation Specialist (Finance)",Midwest,6. Manufacturing/Chemicals,,,
 2021-12-01,"I actually have a BI title, but in practice I'm a cloud DE who does a little BI work",5 YoE,"UK, remote, a few days a month in London","£120k (GBP) (it's a contract, but this is the rate's broad salary equivalent according to internet calculators)",None,,
-2021-12-01,Just got an new offer.,DS with 4+YOE.,401k: $7500 match,Completely Remote. (I am based in midwest),,,
 2021-12-01,Senior Data Engineer (contractor),"3 years as DBA, 2 Years Data Engineering",Midwest,$80 per hour,0,Entertainment,
 2021-12-01,Sr Data Scientist,4 years,SF/Bay Area,170k USD,"5k sign on, 24k bonus, 18k RSU, 17K 401k (10% match)",Pharmaceuticals,
 2021-12-01,Big Data Developer (but I've put DE in my Linkedin),10 months of effective work,Central Italy,19400 € (before taxes),2000 € (after taxes) / year,Consultancy,
@@ -166,7 +164,7 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-12-01,Data engineer,4 years,Turkey,18k $ / y (currency tho),Same as yours,Finance + ecommerence ( as a consulting firm),
 2021-12-01,Data Engineer,3 YOE,"Munich, Germany",60k euro,20k ESOP,,
 2021-12-01,Data engineer,4 YOE,NYC,"$170,000 USD","$60,000 annual RSUs, 10% bonus",Big tech,
-2021-12-01,Data Engineer,"2 years in Data, total 5 years in IT",Indonesia,"32,000$","4,000$",Finance (bank/fintech),
+2021-12-01,Data Engineer,"2 years in Data, total 5 years in IT",Indonesia,32000,4000,Finance (bank/fintech),
 2021-12-01,Data Engineer II,"< 4 years (2.5 as analyst in Data, 6 months as DE)",Work remotely from NYC for a company located in California,"95,000 USD","10,000 Bonus",Finance,
 2021-12-01,Data Engineer,"1.5 years DA, < 2 months DE",NYC company. Working remote from VA,90k USD,10k USD,Health Tech,
 2021-12-01,Data Analyst (wanting to move into data engineering),2 years experience,"Philadelphia, PA (USA)",$73k annual,$10k bonus,Tech,
@@ -176,11 +174,11 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-12-01,Data Engineer,1,Australia,94000 AUD,Finance,,
 2021-12-01,Data Engineering Manager,"4 years as a developer, just finished year as manager",Washington DC,$160k,$12k bonus + $80k RSU with 4 year vesting,,
 2021-12-01,Sr. Data Engineer.,8.  5 in analytics. 3 in DE,"Job is based in PNW, USA. Currently a covid refugee in Taiwan.",130k usd.,"18k bonus, 10k ish stock + 401k",Retail/E-commerce,
-2021-12-01,Data Engineer,10+,Sacramento area,"81,000",None,Retail/manufacturing,
-2021-12-01,Data Engineer,2y,Italy,"35,000€",None,Consultancy,
+2021-12-01,Data Engineer,10+,Sacramento area,81000,None,Retail/manufacturing,
+2021-12-01,Data Engineer,2y,Italy,35000,None,Consultancy,
 2021-12-01,"Senior Software Engineer, Data",4 YOE,Remote for SF-based,"$180,000 USD","Bonus: trivial, Equity: lottery ticket ISO",Health,
 2021-12-01,Data Engineer,3 YOE (DE) 9 YOE (overall),San Francisco Bay Area (remote),125k USD,170k equity/ 4years + 20k hiring bonus. Equity doubled in value during my first year.,Fintech,
-2021-12-01,Senior Data Engineer,9,Philadelphia Suburbs,"$120,000",4% bonus,Digital Marketing,
+2021-12-01,Senior Data Engineer,9,Philadelphia Suburbs,120000,4% bonus,Digital Marketing,
 2021-12-01,Jr Data Engineer,0 yoe (starting next summer ),DC,85k USD,~6k,Consulting,
 2021-12-01,"Data Analyst, working on a title change to Data Engineer",2 years,"Phoenix, AZ, USA","$61,000 + 3% 401k match.",None,Sales / web hosting,
 2021-12-01,Database engineer,4 years,"Cambridge, UK",£30k,None,Medical Research,
@@ -196,19 +194,15 @@ date,title,experience,location,salary,bonus,industry,benefits
 2021-12-01,Data Engineer,0 Years,Philippines,"Php 22,000.00",None,SAAS,
 2021-12-01,"Principal Developer, Data",9 years SDE in Data,"Melbourne, Australia","AUD$187,000 (170K base + 17K superannuation i.e. retirement contribution)",,,
 2021-12-01,Current Title: Data Engineer,"Years of Experience: first role as data engineer. 3 STEM degrees in genomics, couldn't get a job in academia and ended up as an analyst in Business Intelligence. Made the career move to data engineering and lucky to have found an entry-level role.",Location: South West UK,Salary before tax: £45k pa,Bonuses: 10% of annual salary if company hits targets,Industry: SaaS,
-2021-12-01,Data Engineer,6 months,Idaho,"$60,000",NULL,,
+2021-12-01,Data Engineer,6 months,Idaho,60000,NULL,,
 2022-03-01,Data Engineer / Data Lead (only data person in the team),7.5 YOE,Canada (US Remote I guess ... Canadian company bought by US company),210k CAD,55k CAD bonus this year (up to 100k CAD yearly) + 30k CAD yearly equity,Tech,
-2022-03-01,Thank you!,"I was lucky to join a startup years ago, I stuck around and it paid off!",Job hopping is not always the solution!,,,,
-2022-03-01,"Yeah I would ask for equity in a startup, especially if you think it has a good future. That's literally the value proposition of these companies.","If they can't offer you stock options and don't ""overpay"", how do they expect to compete in this job market environment?",Good luck in your discussions and research!,,,,
-2022-03-01,Data engineering consultant (intern) (but we don't share my intern status with clients),6 months,"Santa Catarina, Brazil",R$18.000 = $3500 USD yearly,R$800 = $150 USD every 6 months IF we hit our earnings target in that semester,"DE consultancy for industrial/retail/tech clients. Some projects are outsourced hours, some are closed scope.","SQL + Python + Airflow + GCP and AWS cloud providers tools + I do a lot of fullstack web development in some projects (have done ReactJS, NodeJS and some Flask/FastAPI)"
+2022-03-01,Data engineering consultant (intern) (but we don't share my intern status with clients),6 months,"Santa Catarina, Brazil","R$18,000 = $3500 USD yearly",R$800 = $150 USD every 6 months IF we hit our earnings target in that semester,"DE consultancy for industrial/retail/tech clients. Some projects are outsourced hours, some are closed scope.","SQL + Python + Airflow + GCP and AWS cloud providers tools + I do a lot of fullstack web development in some projects (have done ReactJS, NodeJS and some Flask/FastAPI)"
 2022-03-01,Lead data engineer,3 YOE DE (another 2 of SWE),Remote US,$200k base,Negligible,Govt contracting,"Python, SQL, Airflow, GCS, BigQuery"
 2022-03-01,Data Engineer,10,"London, UK",£100k,"15%+ bonus, quarterly equity",Communication,
 2022-03-01,Data Engineering Manager,10 years in analytics roles,San Francisco,~$190k,15% bonus/~$120K depends on stock price,FAANG,
 2022-03-01,Data Engineer,1 YOE,US Remote,$80K,"5% Bonus, $7350 in equity over four years (could multiply significantly as I work at a private startup)",Fintech,"SQL, Python, Airflow, AWS"
 2022-03-01,Lead Data Engineer,4 YOE,Remote (Boston area),145k USD,No bonus or equity,Ecommerce,"Snowflake, dbt, databricks, airflow, python, gitlab, docker, scala"
 2022-03-01,"Title: Data Engineer, Senior Manager",YOE: 1.5,"Location: London, UK","Base Salary: £40,000 GBP",Bonus: N/A,Industry: Media and Advertising,"Tech Stack: GCP (Cloud Functions, Big Query, Compute Engine, Cloud Run, GCS and etc), Python, Java Script, Airflow, dbt and GitLab"
-2022-03-01,"I'm industry ambivalent, I just hand a CV over to any recruiters who contact on LinkedIn, tell them how much I'm after then they'll either present their roles or not bother - then see what comes in!","In some cases I'm probably underselling myself as I tend to go first with salary expectations which means for some industries like in finance I'd be underpaid, but i don't think I'm that interested in working for a bank or hedge fund anyway.","Tends to be retail companies, new tech companies or insurance.",,,,
-2022-03-01,I switched from another role before transitioning into Data Engineering. This is my third role since I graduated from Uni 6 years ago.,My previous roles were data analyst and Ad Operations.,I'm only surviving because I live at home!,,,,
 2022-03-01,Data Engineer IV,1.5 months,"Querétaro, México","354,000 MXN ~ 17,150 USD per year",Bonus of 15% according to achievement of goals,Chemicals (US based company. Shared service center in MX),"Databricks, Azure Data Factory, MSSQL, PL/SQL, IPC, Snowflake"
 2022-03-01,Data Engineer,3 YOE,Portugal,55k€,N/a,Non tech,AWS Python dbt Trino
 2022-03-01,Senior DE,2YOE,Bay Area,175k USD,"~100k/y based on last ~250k/y based on target next round valuation, but really no real money",Seed round services startup,"Airflow, bigquery, postgres, elasticsearch, databricks/spark/mlflow, lots python, a bit of node.   Some streaming with cloud functions and pubsub.  Infra with packer, k8s and terraform"
@@ -217,8 +211,8 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-03-01,Data Engineer,1 YOE,"Tasmania, Australia","$80,000 AUD",N/A,Aquaculture,"SQL Server, MSSQL, SSIS, SSDT, T-SQL"
 2022-03-01,Data Engineer,1,Chicago (Remote),Base: 110k,Equity: 20k,Insurance Tech,
 2022-03-01,Data engineer (no senior or whatever at our company),5.5 years,"Amsterdam, the Netherlands",€86k,€12k,IT outsourcing & consulting,Azure cloud + Python
-2022-03-01,"Will vary, contractor",6 YoE,UK,"Trying to equate contract earnings to salary, ~£120k. Bit higher than I'd normally expect, think ~£100k is probably more representative (assuming I'm in work all year)",None. No benefits at all.,Varies,"Azure data stack/general platform stuff, MSSQL, Spark, Python, DevOps, Power BI"
-2022-03-01,Data engineer,10 months,"Bogotá, Colombia",42.000.000 COP = 11k USD/ year,No bonus,Ecommerce/startup,"Aws, python, sql, spark, databricks"
+2022-03-01,"Will vary, contractor",6 YoE,UK,£100k is probably more representative (assuming I'm in work all year),None. No benefits at all.,Varies,"Azure data stack/general platform stuff, MSSQL, Spark, Python, DevOps, Power BI"
+2022-03-01,Data engineer,10 months,"Bogotá, Colombia",11k USD/ year,No bonus,Ecommerce/startup,"Aws, python, sql, spark, databricks"
 2022-03-01,Data Engineer,2 YOE,NYC,110k base,"10k starting bonus, performance bonus unknown",,
 2022-03-01,"Current title, junior SQL developer, Junior data engineer","Years of experience (YOE), 2.5 years","Location, Oklahoma City and Phoenix Arizona","Base salary & currency (dollars, euro, pesos, etc.), Each job pays me a gross salary of $60,000 a year","Bonuses/Equity (optional), Oklahoma City Job gave me a $1,000 bonus last quarter. Arizona job gave me a $1,200 bonus a month ago","Industry (optional), Oklahoma City is web development company. Arizona is real estate company","Tech stack (optional), Oklahoma City SQL. Arizona is Python and PHP (no seriously)"
 2022-03-01,Data Engineer,"3 months, first job as a new grad",Missouri,88k USD,Bonus is ~5% annually,Automobile,"AWS, Python, Airflow"
@@ -247,11 +241,10 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-03-01,Data Engineer II,3 YOE,Midwest,"$82,000 salary","$4,000 bonus","Stack: Talend, Qlik lol",
 2022-03-01,Data Engineer,8 YOE,"Minneapolis, MN",100k,5% Bonus,Health Insurance,Microsoft
 2022-03-01,Data Engineer,"1.5 Data analyst, 1.5 Data Scientist/ML Ops/ Data engineer",MCOL/LCOL,"$83,000 USD",3% Bonus,Non Profit Insurance,"Python (spark/spark streaming), R, SQL, Azure Databricks, Docker, R Shiny"
-2022-03-01,"Tech stack:SQL(Server and Oracle),Oracle Data Integrator(ETL) , OAC(reporting), Scripting Language: Python.",Location : India,EXPERIENCE : 9 months(6 months internship +3 as JSD),Salary :6000$ annual,,,
 2022-03-01,Title: Data Engineer,Years of experience (YOE): < 2,"Location: HCOL (Boston, DC, Chicago)","Base salary: $125,000 (USD)","Bonuses/Equity: $20,000/yr RSU, 20% Bonus",Industry: Tech (FAANGMULA),"Tech stack: SQL, Spark, Scala, Airflow"
-2022-03-01,Data Engineering Manager,4 YOE,"Remote, USA (Colorado)","$150,000","10% bonus, ~$20k equity",Tech,
+2022-03-01,Data Engineering Manager,4 YOE,"Remote, USA (Colorado)",150000,"10% bonus, ~$20k equity",Tech,
 2022-03-01,"Manager, Data & Analytics (Working, tech lead)",6 YOE,"Nashville, TN",$130k USD,15%+ profit sharing (53k total last year),"Healthcare, Bio Science Lab","Microsoft BI Stack (Azure Data factory, azure data lake, azure synapse dedicated pool, azure synapse, spark, and Power BI) + Python"
-2022-03-01,Data engineer,2 YOE (both as data engineer),Bay Area/US remote,"$180,000","No bonus, $95K/year in private stock options, stock refreshers available",ML/AI,"GCP, Databricks, BigQuery, Looker, PubSub, k8s, Python, PySpark, SQL"
+2022-03-01,Data engineer,2 YOE (both as data engineer),Bay Area/US remote,180000,"No bonus, $95K/year in private stock options, stock refreshers available",ML/AI,"GCP, Databricks, BigQuery, Looker, PubSub, k8s, Python, PySpark, SQL"
 2022-03-01,Current title Data Engineer,Years of experience (YOE) 2 1/2,"Location Cologne, Germany",Base salary & currency 60k Euros,Bonuses/Equity (optional) 18k fixed bonus + 7k performance bonus(up to 150%),"Tech stack (optional) Kafka, Spring, Java, Python - mostly backend and ETL/streaming projects",
 2022-03-01,Data Engineer,"1.5 Marketing Analyst, 2 Data Analyst, <1 Data Engineer","Washington, D.C. (remote)",$110k base,5% bonus; stock options,Tech / Series C Unicorn,"Python, SQL, AWS, Databricks, PySpark, Kafka, Snowflake"
 2022-03-01,Data Analyst,1 year,"Remote, Canada",$90k CAD,$3k bonus,Hospitality,SQL & Python
@@ -259,8 +252,8 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-03-01,Lead Data Engineer,5 YOE,US - Remote,$145K USD,$5K USD,E-Learning,"Python (ETL), SQL (Redshift, Aurora Postgres), Looker, Node.js (Application), RethinkDB"
 2022-03-01,Database administator,4 years,Cambridge,£30k,£0 - people get bonuses?,Medical Research,"SQL, R, python"
 2022-03-01,Title: Data Engineer,Location: San Francisco Bay Area,YoE: 8. Six months at this job and 7.5 as an analyst with the last 2 being more of an analytics engineer. ~2.5 years with python and SQL. No degree.,Current Base Salary: $130k,"Tech stack: golang, AWS/Terraform, MySQL, Redshift, argo workflows, Splunk (not heavily)",,
-2022-03-01,Data Engineer,75k euros,"10 years overall, 5 years of DE experience","Berlin, Germany","Tech stack - Sql, Python, GCP, Snowflake, Airflow, Docker",E commerce,
-2022-03-01,Data Engineer,"Masters Degree in Data Science, 0.6 intern, 1.5 Data Analyst, 1 Data Engineer",Minnesota (remote),100k,5%,Healthcare,"Python, Pyspark, Docker, AWS, Airflow, SQL, dbt"
+2022-03-01,Data Engineer,"Berlin, Germany","10 years overall, 5 years of DE experience",75k euros,"Tech stack - Sql, Python, GCP, Snowflake, Airflow, Docker",E commerce,
+2022-03-01,Data Engineer,"Masters Degree in Data Science, 0.6 intern, 1.5 Data Analyst, 1 Data Engineer",Minnesota (remote),100k,0.05,Healthcare,"Python, Pyspark, Docker, AWS, Airflow, SQL, dbt"
 2022-03-01,Technical Lead,5 yoe,London,£63k p/a,20% performance bonus,Utilities Consulting,"Azure ADF, Databricks, PySpark, PostgreSQL / SQLServer, React, Django"
 2022-03-01,Title: Data Scientist,YoE : 1 year,Location: Bangalore (India),Salary: 12 Lakh Rupees,Industry: Management Consultancy (current building data warehouse for Logistics Client),"Tech stack: AWS, PySpark, Python, SQL(RedShift), a bit of PowerBI to help our BI team in KPI calculation logic",
 2022-03-01,Data Engineer,5 YoE (1 DE + 4 BI),"Bogota, Colombia (100% remote)",156M COP ~ 40.8K USD per year,15 days more of vacation per year,Digital Banking,
@@ -271,13 +264,13 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-03-01,Associate Data Engineer (even though i’m the only one here),1.5 years,Tennessee,"$61,300 USD",Merit-Based,Tech,"adls, python, golang, sql, no-sql, power bi, spark, sci-kit learn, loooots of self-made software (APIs, change streams, etc.)"
 2022-03-01,Analytics System Admin (ETL Developer + BI),Out of college (10-month Internship),Midwest,$95k UDS,$15k annual bonus + 11% one-year raise,,
 2022-06-01,Data Engineer,1 year. Coming from analyst roles though.,Utah.  Remote,95k USD,"25k bonus,  options.",Health care,"Python,  AWS."
-2022-06-01,Data Engineer intern,0YOE,"Paris, France",1000€/month,0€,Financial services,"Python, Airflow, AWS (S3, ECS), BigQuery, Docker, Postgres"
+2022-06-01,Data Engineer intern,0YOE,"Paris, France",1000€/month,0,Financial services,"Python, Airflow, AWS (S3, ECS), BigQuery, Docker, Postgres"
 2022-06-01,Data Engineer,10 years,London,£120k,20% + equity,Communication,"Presto, Spark, Airflow"
 2022-06-01,Data Engineer,"First year engineer, two years as Data Analyst with lots of SQL, multiple years before that doing accounting work while using some programming mostly python",NYC suburbs (HCOL),$100k,10% of base,Financial services,Oracle and python
 2022-06-01,data engineer,3 as a data analyst,"central virginia, us",110k,none,legal/consulting,"python, sql, aws"
 2022-06-01,Senior Data Engineer,10 YoE as backend engineer / 2 YoE as Data Engineer,"Spain, Remote",100k€,Stock options for parent company,SaaS,"Redshift, PySpark, EMR, Airflow..."
 2022-06-01,Data Engineer,"Making a transition from about 2 years as an overworked IT Manager, 4 years as ""IT Programmer/Analyst"" before that. So I'll say 1-2 years since I had to be a jack of all trades and did not have a DE focus.",Lower COL area of Ohio.,"$85K. Adjusting for COL using Nerdwallet this would be around $180 in San Fran, $115 in Chicago. $140 in Queens NY.","$12,500 bonus on table for first year, normally 3% yearly. I've actually worked at this company previously before entering IT formally. They do provide raises and promotions for top performers even within the first year.",Online/direct mail sales and marketing. Company did $300m last year.,"I'm told initial focus will be on creating a clean data warehouse, as well as working within PowerBI, Azure Synapse, D365 ecosystem. So a lot of SQL. Should also be some Python in there as well."
-2022-06-01,Not DE but similar,Current title: Generic programmer title,Years of experience (YOE): 1+,Location: Spain,Salary: 21k €,Industry: Consulting,"Tech stack: SQL SERVER, C#, SSIS, Oracle Database"
+2022-06-01,Current title: Generic programmer title,Years of experience (YOE): 1+,Location: Spain,Salary: 21k €,Industry: Consulting,"Tech stack: SQL SERVER, C#, SSIS, Oracle Database",
 2022-06-01,Data Scientist,"3.5 industry, 7 academic",MCOL city US,$110k USD,$15k Bonus/$15k equity,Weather,"Python, c++, SQL, R, AWS, Prefect"
 2022-06-01,Senior Infrastructure Data Engineer,3 years of experience,"Remote toronto, company in vancouver",115000 CAD per year,5k bonus,Fintech,Postgres/EKS/AWS/IAC
 2022-06-01,Data Engineer,4 YoE,Midwest US (remote),$145k,5% + equity,Tech,"Airflow, Python, dbt"
@@ -290,7 +283,7 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-06-01,Data Warehouse Manager,34,New Orleans,88K,na,Non-Profit,"Azure, Databricks, pyspark"
 2022-06-01,Data Engineer Intern,1 month :),Brazil,"R$ 1000,00 (real)",Data plataform,"Python, SQL, AWS (RDS, EC2, S3, Athena, Glue, CloudWatch), Terraform, Postgres",
 2022-06-01,1)Current title: Data Engineer,2)Years of experience (YOE): 2,3)Location: DMV,"4)Base salary: $100,000 US",5)Bonuses: Year End 10% Bonus,6)Industry: Media,"7)Tech stack: AWS, Python, Airflow"
-2022-06-01,Junior Data Engineer,"0 (first role, 8 months in)","Atlanta, Georgia","$60,000","$2k bonus, stock in company (will be eligible in a few months)",Government/Academic Research Data (various projects),"R, PostgreSQL"
+2022-06-01,Junior Data Engineer,"0 (first role, 8 months in)","Atlanta, Georgia",60000,"$2k bonus, stock in company (will be eligible in a few months)",Government/Academic Research Data (various projects),"R, PostgreSQL"
 2022-06-01,BI Analyst,"2y Developer, 6 months Data Analyst",Baltic States,1800EUR/month,5% Quater Bonus,Healthcare,"MySQL, Python"
 2022-06-01,Geospatial Data Engineer,1 Year including 0.5 year internship,Toronto,70k CAD,n/a,Marketing Consulting/ SaaS,"Snowflake, Azure Databricks, Alteryx, ArcGIS"
 2022-06-01,Data engineer,9 yr exp,Bay Area,$190k,15% bonus +100k equity,Tech,"Presto,spark, proprietary pipeline tool and proprietary dash boarding tool."
@@ -301,5 +294,5 @@ date,title,experience,location,salary,bonus,industry,benefits
 2022-06-01,Senior Data Engineer,"5, coming on 6",Seattle (but remote mainly),$165k base,"Annual bonus ($25k signing bonus), some equity package I can't remember off the top of my head",Media,"AWS, Airflow, Spark, some other DevOps tools"
 2022-06-01,Data Engineer,"1 in role, 2 months in DS internship about 6 months before starting",Virginia (hcol),102k USD,"Paltry bonus- 10% 401k contrib, full healthcare premium with no out of pocket, tuition coverage for continuing education",Government,"Python, sql, unfortunately no cloud resources lol"
 2022-06-01,Data Engineer,8 Years as a BI Dev 2 Years Data Engineer,London UK,"80,000 GBP before Tax",Upto 15% Bonus,Asset Management,"SQL, Azure Data Factory, Python (just a little bit)"
-2022-06-01,title: Data Engineer 1,location: Michigan (remote CA company),location: Michigan (remote CA company),pay: 145k base,bonus: 10% base/yr + 10k rsu sign on,industry: cannabis,"stack/libs: Python, Pandas, postgresql, boto3, airflow, snowflake, dbt, streamsets"
-2022-06-01,Data Engineer I,"6 months as DE, 5 years with data total",SF,"$87,000","$1,000",Non-profit org,"Python, MySQL, AWS, R, Ruby"
+2022-06-01,title: Data Engineer 1,,location: Michigan (remote CA company),pay: 145k base,bonus: 10% base/yr + 10k rsu sign on,industry: cannabis,"stack/libs: Python, Pandas, postgresql, boto3, airflow, snowflake, dbt, streamsets"
+2022-06-01,Data Engineer I,"6 months as DE, 5 years with data total",SF,87000,1000,Non-profit org,"Python, MySQL, AWS, R, Ruby"
