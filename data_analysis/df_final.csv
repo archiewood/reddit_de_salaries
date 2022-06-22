@@ -1,305 +1,298 @@
-date,title,experience_clean,location,salary_currency,salary_usd
-2021-06-01,data pipeline  business sidata engineer senior manager,15.0,"lcol, us",USD,150000.0
-2021-06-01,data engineer,2.5,100% remote; company is based out of a low cost of living city in the southern part of us,USD,130000.0
-2021-06-01,data engineering consultant,0.5,london,GBP,38901.227352425485
-2021-06-01,etl developer,1.5,belarus,USD,15000.0
-2021-06-01,senior data engineer,7.0,los angeles,USD,125000.0
-2021-06-01,data engineer ii,6.0,"stuttgart, germany",EUR,114400.00000000001
-2021-06-01,senior data engineer,5.0,"remote, nyc",USD,500000.0
-2021-06-01,senior data engineer,3.0,nyc,USD,140000.0
-2021-06-01,senior data engineer,7.0,"ncr, india",INR,49954.12250829797
-2021-06-01,senior data engineer,6.0,remote dallas tx; us seattle wa,USD,152500.0
-2021-06-01,junior data engineer,2.0,melbourne australia,AUD,
-2021-06-01,data engineer,5.0,lcol in midwest,USD,100000.0
-2021-06-01,data engineer,5.0,pnw,USD,95000.0
-2021-06-01,junior data engineer,1.0, remote but i’m technically out of the company’s nyc office,USD,88000.0
-2021-06-01,bi report developer,0.25,midwest lcol,USD,60000.0
-2021-06-01,senior data engineer,4.0,"remote, company based in utah",USD,135000.0
-2021-06-01,associate data engineer,0.0,midwest,USD,81000.0
-2021-06-01,senior data scientist,,sf bay area,USD,195000.0
-2021-06-01,senior data engineer,6.0,"toronto, on, canada",USD,115000.0
-2021-06-01,thanks for the advice!,,thanks!,COP,
-2021-06-01,software engineer ix0% data engineer,5.0,sf city,USD,145000.0
-2021-06-01,is software engineer but i got hired for data engineer team,5.0,somewhere in eu ,EUR,81120.0
-2021-06-01,analytics manager,,bay area,USD,400000.0
-2021-06-01,data engineer,1.0,bangalore india remote,INR,17932.24910554286
-2021-06-01,data engineer,4.0,remote; us lcol,USD,
-2021-06-01,senior data engineer,10.0,maryland,USD,125000.0
-2021-06-01,data engineer,1.5,london,GBP,68077.14786674459
-2021-06-01,data engineer,0.0,remote. based in philadelphia.,USD,90000.0
-2021-06-01,data engineer,1.8,"remote, mcol",USD,100000.0
-2021-06-01,data engineer,3.0,"stuttgart, germany",EUR,52000.00000000001
-2021-06-01,senior data engineer,1.0,nyc area,USD,118000.0
-2021-06-01,data engineer,0.3333333333333333,"pleasanton,ca",USD,125000.0
-2021-06-01,data engineer,,philly,USD,90000.0
-2021-06-01,data engineer,4.0,seattle,USD,175000.0
-2021-06-01,senior data engineer,6.0,"stockholm, sweden",EUR,93600.00000000001
-2021-06-01,big data engineer,3.0,"pune, india",INR,11527.87442499184
-2021-06-01,lead  senior data engineer,10.0,"madrid, spain",EUR,
-2021-06-01,data engineer,3.0,singapore,USD,50000.0
-2021-06-01,senior data engineer,5.0,"bangalore, india",INR,
-2021-06-01,mle,2.5,frankfurt,EUR,83200.00000000001
-2021-06-01,etl developer,,dmv,USD,100000.0
-2021-06-01,associate data engineer,1.0,connecticut usa,USD,62000.0
-2021-06-01,azure data engineer,5.0,"london, uk",GBP,91174.75160724722
-2021-06-01,program analyst,0.5,southern california,USD,80000.0
-2021-06-01,junior data engineer,,us/new england - hcol,USD,87000.0
-2021-06-01,database engineer,5.0,us,USD,140000.0
-2021-06-01,data engineer,6.0,seattle,USD,125000.0
-2021-06-01,data engineer,1.5,chicago,USD,90000.0
-2021-06-01,data engineer,3.0,midwest mcol,USD,125000.0
-2021-06-01,big data engineer,2.0,"ri, usa",USD,110000.0
-2021-06-01,data engineer manager,10.0,bay area,USD,190000.0
-2021-06-01,data engineer,3.0,california ,USD,130000.0
-2021-06-01,data engineer,1.0,seattle,USD,94000.0
-2021-06-01,data engineer,0.5,"san diego - 100% remote, company based in bay area",USD,150000.0
-2021-06-01,data engineer,3.0,chicago but remote until fall 2021,USD,117000.0
-2021-06-01,software engineer ii,2.0,silicon valley,USD,107000.0
-2021-06-01,analytics engineer,1.0,bay area,USD,165000.0
-2021-06-01,junior data engineer,2.0,"seoul, korea",USD,50000.0
-2021-06-01,data engineer i at a fortune top vii in india,0.75,"ncr, india",USD,15000.0
-2021-06-01,data engineer,5.0,hcol northeast us ,USD,120000.0
-2021-06-01,bi engineer,,north of england/south yorkshire,GBP,60783.16773816482
-2021-06-01,current  data engineer,,location: major lcol city in usa,USD,
-2021-06-01,junior data engineer,1.5,"currently remote but boston, ma",USD,107000.0
-2021-06-01,data engineer,8.0,ohio,USD,90000.0
-2021-06-01,data engineer,3.0,remote,USD,110000.0
-2021-06-01,data engineer i,1.0,"hcol, northeast us",USD,130000.0
-2021-06-01,data engineer,,remote ,USD,135000.0
-2021-06-01,data engineer,0.75,"amsterdam, the nl",EUR,39312.0
-2021-06-01,data engineer,,"remote, but i live in mcol us",USD,100000.0
-2021-06-01,junior data engineer,0.25,midwest ,USD,76000.0
-2021-06-01,distinguished engineer,20.0,remote east coast us - mcol,USD,145000.0
-2021-06-01,data engineer senior manager,1.0,"location: london, uk",GBP,48626.53419053186
-2021-09-01,senior technical product manager,7.0,seattle,USD,190000.0
-2021-09-01,data engineer,4.0,texas lcol,USD,110000.0
-2021-09-01,data engineer,10.0,sf bay area ,USD,170000.0
-2021-09-01,senior data engineer,5.0,us - pacific northwest,USD,150000.0
-2021-09-01,data engineer,10.0,"london, uk",GBP,
-2021-09-01,analytics engineering manager,7.0,pnw,USD,140000.0
-2021-09-01,data engineer,2.0,"remote, chicago based",USD,85000.0
-2021-09-01,data analytics engineer,1.0,bay area,USD,130000.0
-2021-09-01,data engineer,,"netherlands, the hague",EUR,52000.00000000001
-2021-09-01,senior data engineer,8.0,ohio,USD,
-2021-09-01,data engineer,1.0,"remote, but chicago based",USD,100000.0
-2021-09-01,data engineer,2.0,arg offshore working for usa nyc,USD,42000.0
-2021-09-01,data engineer,6.0,seattle,USD,170000.0
-2021-09-01,software engineer data,1.5,sf/bay area,USD,140000.0
-2021-09-01,data engineer,3.0,bay area,USD,155000.0
-2021-09-01,senior data engineer,,yoe - 7,INR,
-2021-09-01,distinguished engineer,20.0,remote ,USD,145000.0
-2021-09-01,dataops consultant,1.5, us southeast,USD,105000.0
-2021-09-01,devopsdata engineer manager,10.0,"in lcol but remote, los angeles based",USD,105000.0
-2021-09-01,data engineer,12.0,"seattle, $172k base, $34 target bonus ",USD,
-2021-09-01,data engineer,3.0,bay area,USD,186000.0
-2021-09-01,analytics consultant,4.0,remote ,CAD,104417.67068273092
-2021-09-01,bi analyst,5.0,toronto,CAD,58783.28127324111
-2021-09-01,data engineer,4.0,midwest us,USD,115000.0
-2021-09-01,data engineer,2.0,fully remote southern california,USD,132000.0
-2021-09-01,data engineer,1.0,amsterdam,USD,65000.0
-2021-09-01,data engineer,4.0,sf bay area,USD,180000.0
-2021-09-01,senior bi engineer,5.0,mcol ,USD,165000.0
-2021-09-01,senior software engineer  data,,$190k base,USD,220000.0
-2021-09-01,lead data engineer,5.0,chicago/miami,USD,160000.0
-2021-09-01,junior data engineer,1.8,switzerland basel,CHF,95365.80556103332
-2021-09-01,data platform architect,9.0,denver ,USD,120000.0
-2021-09-01,bi analyst,2.0,remote but ca based,USD,110000.0
-2021-09-01,associate data engineer,,3 months ,USD,72000.0
-2021-09-01,data engineer,1.0,"london, uk",GBP,58351.84102863823
-2021-09-01,data engineer,1.0,toronto,CAD,69611.78045515394
-2021-09-01,data engineer,4.0,northeast hcol,USD,137000.0
-2021-09-01,data engineer,2.0,norway,USD,
-2021-09-01,principal data engineer,20.0,"vancouver, ca ",CAD,139223.5609103079
-2021-09-01,data engineer,5.0,nashville,USD,90000.0
-2021-09-01,data engineer,0.5,"north west england, uk.",EUR,
-2021-09-01,data engineer,1.2,$105k salary,USD,
-2021-09-01,data engineer,,"jakarta, indonesia 🇮🇩",USD,25000.0
-2021-09-01,data engineer,3.0,seattle,USD,140000.0
-2021-09-01,data engineer,2.5,portugal,EUR,46800.00000000001
-2021-09-01,senior data engineer,10.0,bay area,USD,200000.0
-2021-09-01,data engineer,12.0,melbourne australia,AUD,76578.08420911708
-2021-09-01,data engineering manager,3.0,"toronto, canada",USD,160000.0
-2021-09-01,data engineer consultant,1.0,"atlanta, ga ",USD,90000.0
-2021-09-01,senior data engineer,1.0,remote socal,USD,145000.0
-2021-09-01,lead bi developer,4.0,"atlanta, ga",USD,45000.0
-2021-09-01,senior data engineer,8.0,seattle based but currently remote in michigan for a year,USD,123000.0
-2021-09-01,senior data engineer,7.0,remote ,USD,190000.0
-2021-09-01,data engineer,10.0,us midwest lcol,USD,90000.0
-2021-09-01,bi analyst,5.0,toronto,CAD,69611.78045515394
-2021-09-01,database manager,25.0,northern virginia,USD,205000.0
-2021-09-01,backend engineer,4.5,boulder colorado,USD,95000.0
-2021-09-01,data engineer,5.0,"santiago, chile",USD,39000.0
-2021-09-01,data engineer,2.0,nyc-based ,USD,90000.0
-2021-09-01,data developer,10.0,remote ,USD,133000.0
-2021-09-01,junior data engineer,0.16666666666666666,toronto,CAD,61877.138182359064
-2021-12-01,software engineer data,1.5,sf/bay area,USD,140000.0
-2021-12-01,data engineer  scrum master,2.0,"non-metropolitan midwest, usa",USD,80000.0
-2021-12-01,cloud data engineer,2.0,canada ,CAD,137676.6324557489
-2021-12-01,data analytics engineer,1.0,madrid ,EUR,
-2021-12-01,data engineer,0.5833333333333334,company in germany ,EUR,55120.00000000001
-2021-12-01,data engineer,1.0,"los angeles, ca",USD,120000.0
-2021-12-01,current   analytics engineering manager,6.0,"location - pnw, usa",USD,
-2021-12-01,data engineer,,north carolina,USD,100000.0
-2021-12-01,staff data engineer,5.0,remote. i live in north carolina,USD,180000.0
-2021-12-01,data engineer,4.0,"new york, new york",USD,160000.0
-2021-12-01,senior data engineer,2.5,remote ,USD,117000.0
-2021-12-01,bi developerdata analyst,2.0,"company is based out of nyc but i'm based out of portland, or working remotely",USD,100000.0
-2021-12-01,data engineer,2.0,"denver, co",USD,100000.0
-2021-12-01,data engineer,2.0,norway,NOK,64634.566107010374
-2021-12-01,data scientist,1.0,"campinas, brazil",USD,114000.0
-2021-12-01,data engineer,3.0,"panama city, panama",USD,60000.0
-2021-12-01,senior data engineer,7.0,netherlands,EUR,93600.00000000001
-2021-12-01,date engineer,1.0,paris,EUR,
-2021-12-01,senior data analyst,5.0,remote for an la-based company. i live in san diego,USD,140000.0
-2021-12-01,data engineer,1.0,midwest,USD,
-2021-12-01,i actually have a bi  but in practice i'm a cloud data engineer who does a little bi work,5.0,"uk, remote, a few days a month in london",GBP,145879.60257159558
-2021-12-01,just got an new offer,,401k: $7500 match,USD,
-2021-12-01,senior data engineer,3.0,midwest,USD,
-2021-12-01,senior data scientist,4.0,sf/bay area,USD,170000.0
-2021-12-01,big data developer,0.8333333333333334,central italy,EUR,20176.0
-2021-12-01,junior data engineer,3.0,"small city, northeast us",USD,65000.0
-2021-12-01,consultant,4.5,"midwest, usa",USD,135000.0
-2021-12-01,data engineer,1.5,chicago area ,USD,115000.0
-2021-12-01,data engineer,2.0,new york,USD,105000.0
-2021-12-01,programmer analyst,3.5,bangalore india,USD,27000.0
-2021-12-01,software engineer ii,1.0,"fort collins, colorado",USD,95000.0
-2021-12-01,data engineer,4.0,turkey,USD,18000.0
-2021-12-01,data engineer,3.0,"munich, germany",EUR,62400.00000000001
-2021-12-01,data engineer,4.0,nyc,USD,170000.0
-2021-12-01,data engineer,2.0,indonesia,USD,32000.0
-2021-12-01,data engineer ii,4.0,work remotely from nyc for a company located in california,USD,95000.0
-2021-12-01,data engineer,0.125,nyc company. working remote from va,USD,90000.0
-2021-12-01,data analyst,2.0,"philadelphia, pa ",USD,73000.0
-2021-12-01,bi developer,4.0,mcol midwest us,USD,105000.0
-2021-12-01,current  data engineer,1.0,"location: md, virginia , dc area",USD,
-2021-12-01,senior data engineer,5.0,são paulo/brazil,USD,132000.0
-2021-12-01,data engineer,1.0,australia,AUD,65439.45377870005
-2021-12-01,data engineering manager,4.0,washington dc,USD,160000.0
-2021-12-01,senior data engineer,8.5,"job is based in pnw, usa. currently a covid refugee in taiwan.",USD,130000.0
-2021-12-01,data engineer,10.0,sacramento area,USD,81000.0
-2021-12-01,data engineer,2.0,italy,EUR,36400.0
-2021-12-01,senior software engineer data,4.0,remote for sf-based,USD,180000.0
-2021-12-01,data engineer,3.0,san francisco bay area ,USD,125000.0
-2021-12-01,senior data engineer,9.0,philadelphia suburbs,USD,120000.0
-2021-12-01,junior data engineer,0.0,dc,USD,85000.0
-2021-12-01,data analyst working on a  change to data engineer,2.0,"phoenix, az, usa",USD,
-2021-12-01,database engineer,4.0,"cambridge, uk",GBP,36469.900642898894
-2021-12-01,senior data engineer,4.0,uk,GBP,70508.47457627118
-2021-12-01,data analytics engineer,1.0,chicago,USD,100000.0
-2021-12-01,senior data engineer,3.5,texas ,USD,130000.0
-2021-12-01,data engineer,1.0,co,USD,120000.0
-2021-12-01,data engineer,3.5,"austin, texas",USD,80000.0
-2021-12-01,data engineer,1.0,london,GBP,79018.11805961427
-2021-12-01,data engineer,3.0,remote in chicago,USD,144000.0
-2021-12-01,senior data engineer,3.0,"london, uk",GBP,103331.38515488019
-2021-12-01,technical lead data engineer,5.0,tx ,USD,265000.0
-2021-12-01,data engineer,0.0,philippines,USD,22000.0
-2021-12-01,principal developer data,9.0,"melbourne, australia",AUD,130182.74315549903
-2021-12-01,current  data engineer,,location: south west uk,GBP,
-2021-12-01,data engineer,0.5,idaho,USD,60000.0
-2022-03-01,data engineer  data lead,7.5,canada ,CAD,162427.48772869253
-2022-03-01,thank you!,,job hopping is not always the solution!,COP,
-2022-03-01,yeah i would ask for equity in a startup especially if you think it has a good future that's literally the value proposition of these companies,,good luck in your discussions and research!,COP,
-2022-03-01,data engineering consultant,0.5,"santa catarina, brazil",USD,
-2022-03-01,lead data engineer,3.0,remote us,USD,200000.0
-2022-03-01,data engineer,10.0,"london, uk",GBP,121566.33547632964
-2022-03-01,data engineering manager,10.0,san francisco,USD,190000.0
-2022-03-01,data engineer,1.0,us remote,USD,80000.0
-2022-03-01,lead data engineer,4.0,remote ,USD,145000.0
-2022-03-01,data engineer senior manager,1.0,"location: london, uk",GBP,
-2022-03-01,i'm industry ambivalent i just hand a cv over to any recruiters who contact on linkedin tell them how much i'm after then they'll either present their roles or not bother  then see what comes in!,,"tends to be retail companies, new tech companies or insurance.",COP,
-2022-03-01,i switched from another role before transitioning into data engineering this is my third role since i graduated from uni vi years ago,,i'm only surviving because i live at home!,COP,
-2022-03-01,data engineer iv,0.125,"querétaro, méxico",MXN,17194.498283632627
-2022-03-01,data engineer,3.0,portugal,EUR,57200.00000000001
-2022-03-01,senior data engineer,2.0,bay area,USD,175000.0
-2022-03-01,data engineer,5.5,toronto. canada,CAD,71158.70890971292
-2022-03-01,data engineer,2.0,u.k.,GBP,65645.821157218
-2022-03-01,data engineer,1.0,"tasmania, australia",AUD,55693.152152085146
-2022-03-01,data engineer,1.0,chicago ,USD,110000.0
-2022-03-01,data engineer,5.5,"amsterdam, the netherlands",EUR,89440.00000000001
-2022-03-01,will vary contractor,6.0,uk,GBP,
-2022-03-01,data engineer,0.8333333333333334,"bogotá, colombia",COP,
-2022-03-01,data engineer,2.0,nyc,USD,110000.0
-2022-03-01,current  junior sql developer junior data engineer,,"location, oklahoma city and phoenix arizona",USD,
-2022-03-01,data engineer,0.25,missouri,USD,88000.0
-2022-03-01,data engineering manager,5.0,chicago,USD,136000.0
-2022-03-01,azure data engineer,2.5,toronto,CAD,65744.4593187565
-2022-03-01,mid level data engineer,3.0,remote socal,USD,150000.0
-2022-03-01,data engineer assoc,1.0,texas,USD,65000.0
-2022-03-01,current  senior data engineer,5.0,location: seattle,USD,
-2022-03-01,data engineer,2.0,remote us,USD,152000.0
-2022-03-01,data engineer,6.0,location: u.k.,GBP,
-2022-03-01,data engineer,2.5,nyc,USD,115000.0
-2022-03-01,data engineer i,2.0,full remote ,USD,110000.0
-2022-03-01,data product engineer,11.0,hong kong,HKD,114652.49026188784
-2022-03-01,cloud data engineer,2.0,canada ,CAD,137676.6324557489
-2022-03-01,data engineer,1.0,sf area,USD,120000.0
-2022-03-01,staff data engineer,8.0,remote ,USD,205000.0
-2022-03-01,current   data engineer i,,location - nyc,USD,
-2022-03-01,data analyst,0.5,"portland, or",USD,42000.0
-2022-03-01,integration engineer,0.16666666666666666,location: pa,USD,
-2022-03-01,senior data engineer yoe: v iii0k usd,,"tech stack : nifi, aws emr ec2 s3 lambda , pyspark , shell scripting , etc",COP,
-2022-03-01,senior data engineer,6.0,us remote,USD,132000.0
-2022-03-01,senior bi developer,7.0,uk ,GBP,66861.4845119813
-2022-03-01,data engineer,,"amsterdam, the netherlands",USD,70000.0
-2022-03-01,senior data engineer,5.0,western germany,EUR,83200.00000000001
-2022-03-01,data engineer,1.0,"location: chemnitz, germany",EUR,68640.0
-2022-03-01,data engineer ii,3.0,midwest,USD,82000.0
-2022-03-01,data engineer,8.0,"minneapolis, mn",USD,100000.0
-2022-03-01,data engineer,1.5,mcol/lcol,USD,83000.0
-2022-03-01,tech stack:sql scripting language: python,,experience : 9 months,USD,6000.0
-2022-03-01,data engineer,2.0,location: hcol ,USD,
-2022-03-01,data engineering manager,4.0,"remote, usa ",USD,150000.0
-2022-03-01,manager data & analytics,6.0,"nashville, tn",USD,130000.0
-2022-03-01,data engineer,2.0,bay area/us remote,USD,180000.0
-2022-03-01,current  data engineer,,"location cologne, germany",EUR,
-2022-03-01,data engineer,1.5,"washington, d.c. ",USD,110000.0
-2022-03-01,data analyst,1.0,"remote, canada",CAD,69611.78045515394
-2022-03-01,data engineer,2.4,uk  - hybrid.,GBP,63214.49444769141
-2022-03-01,lead data engineer,5.0,us - remote,USD,145000.0
-2022-03-01,database administator,4.0,cambridge,GBP,36469.900642898894
-2022-03-01,data engineer,,yoe: 8. six months at this job and 7.5 as an analyst with the last 2 being more of an analytics engineer. ~2.5 years with python and sql. no degree.,USD,
-2022-03-01,data engineer,,"10 years overall, 5 years of de experience",USD,
-2022-03-01,data engineer,,minnesota ,USD,100000.0
-2022-03-01,technical lead,5.0,london,GBP,76586.79135008767
-2022-03-01,data scientist,1.0,location: bangalore ,INR,
-2022-03-01,data engineer,5.0,"bogota, colombia ",COP,
-2022-03-01,data engineering manager,6.5,uk,USD,63500.0
-2022-03-01,software engineer data,2.0,sf/bay area,USD,145000.0
-2022-03-01,data engineer,5.0,remote ,USD,100000.0
-2022-03-01,data engineer,2.5,"london, uk",GBP,69292.81122150789
-2022-03-01,associate data engineer,1.5,tennessee,USD,61300.0
-2022-03-01,analytics system admin,,midwest,USD,95000.0
-2022-06-01,data engineer,1.0,utah.  remote,USD,95000.0
-2022-06-01,data engineer intern,0.0,"paris, france",EUR,12480.000000000002
-2022-06-01,data engineer,10.0,london,GBP,145879.60257159558
-2022-06-01,data engineer,,nyc suburbs ,USD,100000.0
-2022-06-01,data engineer,3.0,"central virginia, us",USD,110000.0
-2022-06-01,senior data engineer,10.0,"spain, remote",EUR,104000.00000000001
-2022-06-01,data engineer,,lower col area of ohio.,USD,
-2022-06-01,not data engineer but similar,,years of experience : 1+,USD,
-2022-06-01,data scientist,3.5,mcol city us,USD,110000.0
-2022-06-01,senior infrastructure data engineer,3.0,"remote toronto, company in vancouver",CAD,88948.38613714116
-2022-06-01,data engineer,4.0,midwest us ,USD,145000.0
-2022-06-01,senior integration engineer,6.0,state: colorado,USD,175000.0
-2022-06-01,data engineer,5.0,midwest us,USD,140000.0
-2022-06-01,data engineer,0.0,ny ,USD,51000.0
-2022-06-01,application developer ii,3.0,midwest,USD,83000.0
-2022-06-01,data engineer,2.0,"location: remote, east coast us mcol",USD,152000.0
-2022-06-01,data engineer,3.0,"manila, philippines",PHP,14563.734290843806
-2022-06-01,data warehouse manager,34.0,new orleans,USD,88000.0
-2022-06-01,data engineer intern,,brazil,USD,100000.0
-2022-06-01,current  data engineer,2.0,location: dmv,USD,
-2022-06-01,junior data engineer,0.0,"atlanta, georgia",USD,60000.0
-2022-06-01,bi analyst,0.16666666666666666,baltic states,EUR,22464.000000000004
-2022-06-01,geospatial data engineer,1.0,toronto,CAD,54142.49590956418
-2022-06-01,data engineer,9.0,bay area,USD,190000.0
-2022-06-01,data engineer,3.0,texas,USD,140000.0
-2022-06-01,data engineer,1.0,brussels,EUR,27456.000000000004
-2022-06-01,senior data engineer,3.0,"remote, sf-bay area based",USD,190000.0
-2022-06-01,data analyst,3.0,alberta,CAD,69611.78045515394
-2022-06-01,senior data engineer,,seattle ,USD,165000.0
-2022-06-01,data engineer,0.08333333333333333,virginia ,USD,102000.0
-2022-06-01,data engineer,8.0,london uk,GBP,97253.06838106371
-2022-06-01,data engineer i,,location: michigan ,USD,145000.0
-2022-06-01,data engineer i,0.5,sf,USD,87000.0
+date,title,years_experience,location,country,salary_local,salary_currency,salary_usd,industry,tech_stack
+2021-06-01,data pipeline business sidata engineer senior manager,15.0,us,us,150000.0,USD,150000.0,(blank),
+2021-06-01,data engineer,2.5,us,us,130000.0,USD,130000.0,(blank),
+2021-06-01,data engineering consultant,0.5,"london, uk",uk,32000.0,GBP,39251.24985466806,(blank),
+2021-06-01,etl developer,1.5,us,us,15000.0,USD,15000.0,(blank),
+2021-06-01,senior data engineer,7.0,"los angeles, us",us,125000.0,USD,125000.0,online gambling,
+2021-06-01,data engineer ii,6.0,germany,germany,110000.0,EUR,116050.0,ai,
+2021-06-01,senior data engineer,5.0,"new york, us",us,500000.0,USD,500000.0,tech,
+2021-06-01,senior data engineer,3.0,"new york, us",us,140000.0,USD,140000.0,sports,
+2021-06-01,senior data engineer,7.0,india,india,3900000.0,INR,49919.31863678827,(blank),
+2021-06-01,senior data engineer,6.0,"seattle, us",us,152500.0,USD,152500.0,healthcare,
+2021-06-01,junior data engineer,2.0,australia,australia,70.0,AUD,,logistics,
+2021-06-01,data engineer,5.0,"midwest, us",us,100000.0,USD,100000.0,(blank),
+2021-06-01,data engineer,5.0,"northwest, us",us,95000.0,USD,95000.0,healthcare,
+2021-06-01,junior data engineer,1.0,"new york, us",us,88000.0,USD,88000.0,government,
+2021-06-01,bi report developer,0.25,"midwest, us",us,60000.0,USD,60000.0,healthcare,
+2021-06-01,senior data engineer,4.0,remote,remote,135000.0,USD,135000.0,finance,
+2021-06-01,associate data engineer,0.0,"midwest, us",us,81000.0,USD,81000.0,finance,
+2021-06-01,senior data scientist,,"bay area, us",us,195000.0,USD,195000.0,tech,
+2021-06-01,senior data engineer,6.0,"toronto, canada",canada,115000.0,USD,115000.0,(blank),
+2021-06-01,software engineer ix0% data engineer,5.0,"bay area, us",us,145000.0,USD,145000.0,tech,
+2021-06-01,is software engineer but i got hired for data engineer team,5.0,somewhere in eu,somewhere in eu,78000.0,EUR,82290.0,tech,
+2021-06-01,analytics manager,,"bay area, us",us,400000.0,USD,400000.0,(blank),
+2021-06-01,data engineer,1.0,india,india,1400000.0,INR,17919.755408077843,(blank),
+2021-06-01,data engineer,4.0,us,us,110000.0,USD,110000.0,finance,
+2021-06-01,senior data engineer,10.0,"maryland, us",us,125000.0,USD,125000.0,retail,
+2021-06-01,data engineer,1.5,"london, uk",uk,56000.0,GBP,68689.6872456691,(blank),
+2021-06-01,data engineer,0.0,"philadelphia, us",us,90000.0,USD,90000.0,healthcare,
+2021-06-01,data engineer,1.8,remote,remote,100000.0,USD,100000.0,consulting,
+2021-06-01,data engineer,3.0,germany,germany,50000.0,EUR,52750.0,finance,
+2021-06-01,senior data engineer,1.0,"new york, us",us,118000.0,USD,118000.0,manufacturing,
+2021-06-01,data engineer,0.3333333333333333,"california, us",us,125000.0,USD,125000.0,ecommerce,
+2021-06-01,data engineer,,"philadelphia, us",us,90000.0,USD,90000.0,(blank),
+2021-06-01,data engineer,4.0,"seattle, us",us,175000.0,USD,175000.0,(blank),
+2021-06-01,senior data engineer,6.0,sweden,sweden,90000.0,EUR,94950.0,(blank),
+2021-06-01,big data engineer,3.0,india,india,900000.0,INR,11519.842762335757,(blank),
+2021-06-01,lead senior data engineer,10.0,spain,spain,65.0,USD,,consulting,
+2021-06-01,data engineer,3.0,singapore,singapore,50000.0,USD,50000.0,tech,
+2021-06-01,senior data engineer,5.0,india,india,304100000000.0,INR,,retail,
+2021-06-01,mle,2.5,germany,germany,80000.0,EUR,84400.0,finance,
+2021-06-01,etl developer,,"washington dc, us",us,100000.0,USD,100000.0,defense,
+2021-06-01,associate data engineer,1.0,"colorado, us",us,62000.0,USD,62000.0,(blank),
+2021-06-01,azure data engineer,5.0,"london, uk",uk,75000.0,GBP,91995.11684687827,(blank),
+2021-06-01,program analyst,0.5,"california, us",us,80000.0,USD,80000.0,semiconductors,
+2021-06-01,junior data engineer,,uk,uk,87000.0,USD,87000.0,insurance,
+2021-06-01,database engineer,5.0,us,us,140000.0,USD,140000.0,(blank),
+2021-06-01,data engineer,6.0,"seattle, us",us,125000.0,USD,125000.0,(blank),
+2021-06-01,data engineer,1.5,"chicago, us",us,90000.0,USD,90000.0,healthcare,
+2021-06-01,data engineer,3.0,"midwest, us",us,125000.0,USD,125000.0,(blank),
+2021-06-01,big data engineer,2.0,us,us,110000.0,USD,110000.0,healthcare,
+2021-06-01,data engineer manager,10.0,"bay area, us",us,190000.0,USD,190000.0,(blank),
+2021-06-01,data engineer,3.0,"california, us",us,130000.0,USD,130000.0,education,
+2021-06-01,data engineer,1.0,"seattle, us",us,94000.0,USD,94000.0,ecommerce,
+2021-06-01,data engineer,0.5,"bay area, us",us,150000.0,USD,150000.0,tech,
+2021-06-01,data engineer,3.0,"chicago, us",us,117000.0,USD,117000.0,consulting,
+2021-06-01,software engineer ii,2.0,"bay area, us",us,107000.0,USD,107000.0,enterprise storage hardware,
+2021-06-01,analytics engineer,1.0,"bay area, us",us,165000.0,USD,165000.0,(blank),
+2021-06-01,junior data engineer,2.0,korea,korea,50000.0,USD,50000.0,(blank),
+2021-06-01,data engineer i at a fortune top vii in india,0.75,india,india,15000.0,USD,15000.0,(blank),
+2021-06-01,data engineer,5.0,"northeast, us",us,120000.0,USD,120000.0,healthcare,
+2021-06-01,bi engineer,,uk,uk,50000.0,GBP,61330.07789791885,retail,
+2021-06-01,data engineer,,us,us,96000.0,USD,96000.0,logistics,
+2021-06-01,junior data engineer,1.5,remote,remote,107000.0,USD,107000.0,telco,
+2021-06-01,data engineer,8.0,"ohio, us",us,90000.0,USD,90000.0,cpg,
+2021-06-01,data engineer,3.0,remote,remote,110000.0,USD,110000.0,insurance,
+2021-06-01,data engineer i,1.0,"northeast, us",us,130000.0,USD,130000.0,healthcare,
+2021-06-01,data engineer,,remote,remote,135000.0,USD,135000.0,tech,
+2021-06-01,data engineer,0.75,netherlands,netherlands,37800.0,EUR,39879.0,media,
+2021-06-01,data engineer,,us,us,100000.0,USD,100000.0,cannabis,
+2021-06-01,junior data engineer,0.25,"midwest, us",us,76000.0,USD,76000.0,government,
+2021-06-01,distinguished engineer,20.0,us,us,145000.0,USD,145000.0,telco,
+2021-06-01,data engineer senior manager,1.0,"london, uk",uk,40000.0,GBP,49064.062318335076,media,
+2021-09-01,senior technical product manager,7.0,"seattle, us",us,190000.0,USD,190000.0,media,
+2021-09-01,data engineer,4.0,"texas, us",us,110000.0,USD,110000.0,finance,
+2021-09-01,data engineer,10.0,"bay area, us",us,170000.0,USD,170000.0,(blank),
+2021-09-01,senior data engineer,5.0,"northwest, us",us,150000.0,USD,150000.0,(blank),
+2021-09-01,data engineer,10.0,"london, uk",uk,80000.0,GBP,98128.12463667015,bonus - 10% of base,faang
+2021-09-01,analytics engineering manager,7.0,"northwest, us",us,140000.0,USD,140000.0,tech,
+2021-09-01,data engineer,2.0,"chicago, us",us,85000.0,USD,85000.0,tech,
+2021-09-01,data analytics engineer,1.0,"bay area, us",us,130000.0,USD,130000.0,healthcare,
+2021-09-01,data engineer,,netherlands,netherlands,50000.0,EUR,52750.0,finance,
+2021-09-01,senior data engineer,8.0,"ohio, us",us,90.0,USD,,(blank),
+2021-09-01,data engineer,1.0,"chicago, us",us,100000.0,USD,100000.0,(blank),
+2021-09-01,data engineer,2.0,"new york, us",us,42000.0,USD,42000.0,healthcare,
+2021-09-01,data engineer,6.0,"seattle, us",us,170000.0,USD,170000.0,no bonus,tech
+2021-09-01,software engineer data,1.5,"bay area, us",us,140000.0,USD,140000.0,ai,
+2021-09-01,data engineer,3.0,"bay area, us",us,155000.0,USD,155000.0,healthcare,
+2021-09-01,senior data engineer,,yoe - 7,yoe - 7,5200000.0,INR,66559.0915157177,(blank),
+2021-09-01,distinguished engineer,20.0,remote,remote,145000.0,USD,145000.0,telco,
+2021-09-01,dataops consultant,1.5,us,us,105000.0,USD,105000.0,(blank),
+2021-09-01,devopsdata engineer manager,10.0,"los angeles, us",us,105000.0,USD,105000.0,(blank),
+2021-09-01,data engineer,12.0,"seattle, us",us,,USD,,(blank),
+2021-09-01,data engineer,3.0,"bay area, us",us,18610000.0,USD,,(blank),
+2021-09-01,analytics consultant,4.0,remote,remote,135000.0,CAD,104264.27525622252,finance,
+2021-09-01,bi analyst,5.0,"toronto, canada",canada,76000.0,CAD,58696.92532942898,insurance,
+2021-09-01,data engineer,4.0,"midwest, us",us,115000.0,USD,115000.0,insurance,
+2021-09-01,data engineer,2.0,"california, us",us,132000.0,USD,132000.0,big tech,
+2021-09-01,data engineer,1.0,netherlands,netherlands,65000.0,USD,65000.0,consulting,
+2021-09-01,data engineer,4.0,"bay area, us",us,180000.0,USD,180000.0,cloud software,
+2021-09-01,senior bi engineer,5.0,mcol,mcol,165000.0,USD,165000.0,healthcare,
+2021-09-01,senior software engineer data,,$190k base,$190k base,220000.0,USD,220000.0,(blank),
+2021-09-01,lead data engineer,5.0,"chicago, us",us,160000.0,USD,160000.0,sports,
+2021-09-01,junior data engineer,1.8,switzerland,switzerland,93000.0,CHF,96059.33033091834,(blank),
+2021-09-01,data platform architect,9.0,"denver, us",us,120000.0,USD,120000.0,education,
+2021-09-01,bi analyst,2.0,remote,remote,110000.0,USD,110000.0,finance,
+2021-09-01,associate data engineer,,3 months,3 months,72000.0,USD,72000.0,finance,
+2021-09-01,data engineer,1.0,"london, uk",uk,48000.0,GBP,58876.874782002094,tech,
+2021-09-01,data engineer,1.0,"toronto, canada",canada,90000.0,CAD,69509.51683748169,retail,
+2021-09-01,data engineer,4.0,"northeast, us",us,137000.0,USD,137000.0,decided to do an ms in cs ug was something else + cs minor,previously was 120k+10k bonus de role in healthcare. same area of the us.
+2021-09-01,data engineer,2.0,norway,norway,70000.0,USD,70000.0,(blank),
+2021-09-01,principal data engineer,20.0,canada,canada,180000.0,CAD,139019.03367496337,food distribution,
+2021-09-01,data engineer,5.0,"nashville, us",us,90000.0,USD,90000.0,(blank),
+2021-09-01,data engineer,0.5,uk,uk,4156000.0,EUR,,finance,
+2021-09-01,data engineer,1.2,"kansas, us",us,105000.0,USD,105000.0,cpg,"hybrid work environment. you had to be a local but you can come and go to the office as you please. actually, my first non remote job."
+2021-09-01,data engineer,,indonesia,indonesia,25000.0,USD,25000.0,manufacturing,
+2021-09-01,data engineer,3.0,"seattle, us",us,140000.0,USD,140000.0,tech,
+2021-09-01,data engineer,2.5,portugal,portugal,45000.0,EUR,47475.0,climate change,
+2021-09-01,senior data engineer,10.0,"bay area, us",us,200000.0,USD,200000.0,(blank),
+2021-09-01,data engineer,12.0,australia,australia,110000.0,AUD,76464.38690123212,consulting,
+2021-09-01,data engineering manager,3.0,"toronto, canada",canada,160000.0,USD,160000.0,finance,
+2021-09-01,data engineer consultant,1.0,"atlanta, us",us,90000.0,USD,90000.0,(blank),
+2021-09-01,senior data engineer,1.0,remote,remote,145000.0,USD,145000.0,(blank),
+2021-09-01,lead bi developer,4.0,"atlanta, us",us,45000.0,USD,45000.0,manufacturing,
+2021-09-01,senior data engineer,8.0,"michigan, us",us,123000.0,USD,123000.0,big tech,
+2021-09-01,senior data engineer,7.0,remote,remote,190000.0,USD,190000.0,tech,
+2021-09-01,data engineer,10.0,"midwest, us",us,90000.0,USD,90000.0,cpg,
+2021-09-01,bi analyst,5.0,"toronto, canada",canada,90000.0,CAD,69509.51683748169,(blank),
+2021-09-01,database manager,25.0,"virginia, us",us,205000.0,USD,205000.0,(blank),
+2021-09-01,backend engineer,4.5,"colorado, us",us,95000.0,USD,95000.0,insurance,
+2021-09-01,data engineer,5.0,chile,chile,39000.0,USD,39000.0,finance,
+2021-09-01,data engineer,2.0,"new york, us",us,90000.0,USD,90000.0,tc $99k first year,health tech
+2021-09-01,data developer,10.0,remote,remote,133000.0,USD,133000.0,tech,
+2021-09-01,junior data engineer,0.16666666666666666,"toronto, canada",canada,80000.0,CAD,61786.237188872605,(blank),
+2021-12-01,software engineer data,1.5,"bay area, us",us,140000.0,USD,140000.0,ai,
+2021-12-01,data engineer scrum master,2.0,"midwest, us",us,80000.0,USD,80000.0,insurance,
+2021-12-01,cloud data engineer,2.0,canada,canada,178000.0,CAD,137474.37774524157,insurance,
+2021-12-01,data analytics engineer,1.0,spain,spain,72000.0,EUR,75960.0,(blank),
+2021-12-01,data engineer,0.5833333333333334,"colorado, us",us,53000.0,EUR,55915.0,marketing,
+2021-12-01,data engineer,1.0,"los angeles, us",us,120000.0,USD,120000.0,marketing,
+2021-12-01,analytics engineering manager,6.0,"northwest, us",us,150000.0,USD,150000.0,saas,
+2021-12-01,data engineer,,"north carolina, us",us,100000.0,USD,100000.0,healthcare,
+2021-12-01,staff data engineer,5.0,"north carolina, us",us,180000.0,USD,180000.0,tech,
+2021-12-01,data engineer,4.0,"new york, us",us,160000.0,USD,160000.0,finance,
+2021-12-01,senior data engineer,2.5,remote,remote,117000.0,USD,117000.0,finance,
+2021-12-01,bi developerdata analyst,2.0,"portland, us",us,100000.0,USD,100000.0,tech,
+2021-12-01,data engineer,2.0,"denver, us",us,100000.0,USD,100000.0,venture capital,
+2021-12-01,data engineer,2.0,norway,norway,650000.0,NOK,66395.24413504642,(blank),
+2021-12-01,data scientist,1.0,brazil,brazil,114000.0,BRL,22100.330760749723,it,
+2021-12-01,data engineer,3.0,panama,panama,60000.0,USD,60000.0,(blank),
+2021-12-01,senior data engineer,7.0,netherlands,netherlands,90000.0,EUR,94950.0,retail,
+2021-12-01,date engineer,1.0,france,france,46.5,EUR,,(blank),
+2021-12-01,senior data analyst,5.0,remote,remote,140000.0,USD,140000.0,ecommerce,
+2021-12-01,data engineer,1.0,"midwest, us",us,6.0,USD,,(blank),
+2021-12-01,i actually have a bi but in practice i'm a cloud data engineer who does a little bi work,5.0,"london, uk",uk,120000.0,GBP,147192.18695500522,(blank),
+2021-12-01,senior data engineer,3.0,"midwest, us",us,80.0,USD,,media,
+2021-12-01,senior data scientist,4.0,"bay area, us",us,170000.0,USD,170000.0,healthcare,
+2021-12-01,big data developer,0.8333333333333334,italy,italy,19400.0,EUR,20467.0,consulting,
+2021-12-01,junior data engineer,3.0,"northeast, us",us,65000.0,USD,65000.0,tech,
+2021-12-01,consultant,4.5,"midwest, us",us,135000.0,USD,135000.0,consulting,
+2021-12-01,data engineer,1.5,"chicago, us",us,115000.0,USD,115000.0,cpg,
+2021-12-01,data engineer,2.0,"new york, us",us,105000.0,USD,105000.0,consulting,
+2021-12-01,programmer analyst,3.5,india,india,27000.0,USD,27000.0,finance,
+2021-12-01,software engineer ii,1.0,"colorado, us",us,95000.0,USD,95000.0,finance,was originally hired as a data engineer but title got converted. also happy to answer questions regarding analyst->engineer conversion.
+2021-12-01,data engineer,4.0,uk,uk,18000.0,USD,18000.0,ecommerce,
+2021-12-01,data engineer,3.0,germany,germany,60000.0,EUR,63300.0,(blank),
+2021-12-01,data engineer,4.0,"new york, us",us,170000.0,USD,170000.0,big tech,
+2021-12-01,data engineer,2.0,indonesia,indonesia,32000.0,USD,32000.0,finance,
+2021-12-01,data engineer ii,4.0,"new york, us",us,95000.0,USD,95000.0,finance,
+2021-12-01,data engineer,0.125,"new york, us",us,90000.0,USD,90000.0,healthcare,
+2021-12-01,data analyst,2.0,"philadelphia, us",us,73000.0,USD,73000.0,tech,
+2021-12-01,bi developer,4.0,"midwest, us",us,105000.0,USD,105000.0,wholesale,
+2021-12-01,data engineer,1.0,"virginia, us",us,1000.0,USD,,government,
+2021-12-01,senior data engineer,5.0,brazil,brazil,132000.0,BRL,25589.856670341786,(blank),
+2021-12-01,data engineer,1.0,australia,australia,94000.0,AUD,65342.2942610529,(blank),
+2021-12-01,data engineering manager,4.0,"washington dc, us",us,160000.0,USD,160000.0,(blank),
+2021-12-01,senior data engineer,8.5,"northwest, us",us,130000.0,USD,130000.0,ecommerce,
+2021-12-01,data engineer,10.0,"california, us",us,81000.0,USD,81000.0,manufacturing,
+2021-12-01,data engineer,2.0,italy,italy,35000.0,USD,35000.0,consulting,
+2021-12-01,senior software engineer data,4.0,"bay area, us",us,180000.0,USD,180000.0,healthcare,
+2021-12-01,data engineer,3.0,"bay area, us",us,125000.0,USD,125000.0,finance,
+2021-12-01,senior data engineer,9.0,"philadelphia, us",us,120000.0,USD,120000.0,marketing,
+2021-12-01,junior data engineer,0.0,"washington dc, us",us,85000.0,USD,85000.0,consulting,
+2021-12-01,data analyst working on a change to data engineer,2.0,us,us,610003000.0,USD,,sales / web hosting,
+2021-12-01,database engineer,4.0,uk,uk,30000.0,GBP,36798.046738751305,healthcare,
+2021-12-01,senior data engineer,4.0,uk,uk,58000.0,GBP,71142.89036158586,consulting,
+2021-12-01,data analytics engineer,1.0,"chicago, us",us,100000.0,USD,100000.0,(blank),
+2021-12-01,senior data engineer,3.5,"texas, us",us,130000.0,USD,130000.0,saas,
+2021-12-01,data engineer,1.0,"colorado, us",us,120000.0,USD,120000.0,tech,
+2021-12-01,data engineer,3.5,"texas, us",us,80000.0,USD,80000.0,marketing,
+2021-12-01,data engineer,1.0,"london, uk",uk,65000.0,GBP,79729.10126729449,starup,
+2021-12-01,data engineer,3.0,"chicago, us",us,144000.0,USD,144000.0,tech,
+2021-12-01,senior data engineer,3.0,"london, uk",uk,85000.0,GBP,104261.13242646203,(blank),
+2021-12-01,technical lead data engineer,5.0,"texas, us",us,265000.0,USD,265000.0,consulting,
+2021-12-01,data engineer,0.0,philippines,philippines,22000.0,USD,22000.0,saas,
+2021-12-01,principal developer data,9.0,australia,australia,187000.0,AUD,129989.4577320946,(blank),
+2021-12-01,data engineer,,uk,uk,4000.0,GBP,,saas,
+2021-12-01,data engineer,0.5,"idaho, us",us,60000.0,USD,60000.0,(blank),
+2022-03-01,data engineer data lead,7.5,canada,canada,210000.0,CAD,162188.8726207906,tech,
+2022-03-01,data engineering consultant,0.5,brazil,brazil,18000.0,BRL,,retail,sql + python + airflow + gcp and aws cloud providers tools + i do a lot of fullstack web development in some projects 
+2022-03-01,lead data engineer,3.0,us,us,200000.0,USD,200000.0,government,"python, sql, airflow, gcs, bigquery"
+2022-03-01,data engineer,10.0,"london, uk",uk,100000.0,GBP,122660.1557958377,telco,
+2022-03-01,data engineering manager,10.0,"bay area, us",us,190000.0,USD,190000.0,big tech,
+2022-03-01,data engineer,1.0,us,us,80000.0,USD,80000.0,finance,"sql, python, airflow, aws"
+2022-03-01,lead data engineer,4.0,remote,remote,145000.0,USD,145000.0,ecommerce,"snowflake, dbt, databricks, airflow, python, gitlab, docker, scala"
+2022-03-01,data engineer senior manager,1.0,"london, uk",uk,40000.0,GBP,49064.062318335076,media,"tech stack: gcp , python, java script, airflow, dbt and gitlab"
+2022-03-01,data engineer iv,0.125,mexico,mexico,354000.0,MXN,17576.299503494363,manufacturing,"databricks, azure data factory, mssql, pl/sql, ipc, snowflake"
+2022-03-01,data engineer,3.0,portugal,portugal,55000.0,EUR,58025.0,tech,aws python dbt trino
+2022-03-01,senior data engineer,2.0,"bay area, us",us,175000.0,USD,175000.0,seed round services startup,"airflow, bigquery, postgres, elasticsearch, databricks/spark/mlflow, lots python, a bit of node.   some streaming with cloud functions and pubsub.  infra with packer, k8s and terraform"
+2022-03-01,data engineer,5.5,"toronto, canada",canada,92000.0,CAD,71054.1727672035,insurance,"azure, databricks,  pyspark"
+2022-03-01,data engineer,2.0,uk,uk,54000.0,GBP,66236.48412975235,(blank),
+2022-03-01,data engineer,1.0,australia,australia,80000.0,AUD,55610.46320089608,agri,"sql server, mssql, ssis, ssdt, t-sql"
+2022-03-01,data engineer,1.0,"chicago, us",us,110000.0,USD,110000.0,insurance,
+2022-03-01,data engineer,5.5,netherlands,netherlands,86000.0,EUR,90730.0,consulting,azure cloud + python
+2022-03-01,will vary contractor,6.0,uk,uk,100000.0,GBP,122660.1557958377,varies,"azure data stack/general platform stuff, mssql, spark, python, devops, power bi"
+2022-03-01,data engineer,0.8333333333333334,colombia,colombia,11000.0,USD,11000.0,ecommerce,"aws, python, sql, spark, databricks"
+2022-03-01,data engineer,2.0,"new york, us",us,110000.0,USD,110000.0,(blank),
+2022-03-01,junior sql developer junior data engineer,,"arizona, us",us,,USD,,oklahoma city is web development company arizona is real estate company,tech stack 
+2022-03-01,data engineer,0.25,"missouri, us",us,88000.0,USD,88000.0,automobile,"aws, python, airflow"
+2022-03-01,data engineering manager,5.0,"chicago, us",us,136000.0,USD,136000.0,finance,
+2022-03-01,azure data engineer,2.5,"toronto, canada",canada,85000.0,CAD,65647.87701317715,cpg,"sql, python, scala , azure stack - adf, logic apps, databricks, synapse dwh, snowflake dwh. i am also required to do data modeling."
+2022-03-01,mid level data engineer,3.0,remote,remote,150000.0,USD,150000.0,big tech,
+2022-03-01,data engineer assoc,1.0,"texas, us",us,65000.0,USD,65000.0,(blank),"python, gcp, docker"
+2022-03-01,senior data engineer,5.0,"seattle, us",us,152000.0,USD,152000.0,media,"tech stack: airflow, spark, aws, terraform, databricks, sql, python"
+2022-03-01,data engineer,2.0,us,us,152000.0,USD,152000.0,telco,"all open source, apache nifi, trino, spark, airflow, python, sql"
+2022-03-01,data engineer,6.0,uk,uk,70000.0,GBP,85862.10905708639,insurance,"stack: python, aws, airflow, dbt, sql, and terraform "
+2022-03-01,data engineer,2.5,"new york, us",us,115000.0,USD,115000.0,(blank),
+2022-03-01,data engineer i,2.0,remote,remote,110000.0,USD,110000.0,healthcare,"aws, airflow, python, spark, docker, k8s, sql"
+2022-03-01,data product engineer,11.0,hong kong,hong kong,900000.0,HKD,114650.37371554149,media,gcp/bigquery/airflow/dbt
+2022-03-01,cloud data engineer,2.0,canada,canada,178000.0,CAD,137474.37774524157,insurance,"gcp, terraform, k8s, go, python, debezium, gitlab, datadog, not much sql a lot of unit testing and ops stuff lately"
+2022-03-01,data engineer,1.0,"bay area, us",us,120000.0,USD,120000.0,tech,python sql aws
+2022-03-01,staff data engineer,8.0,remote,remote,205000.0,USD,205000.0,tech,
+2022-03-01,data engineer i,,"new york, us",us,100000.0,USD,100000.0,marketing,"tech stack  - snowflake, airflow, aws"
+2022-03-01,data analyst,0.5,"portland, us",us,42000.0,USD,42000.0,sports,python & sql
+2022-03-01,integration engineer,0.16666666666666666,"pennsylvania, us",us,77500.0,USD,77500.0,healthcare,"tech stack: aws s3, talend, pentahoe , postgres, airflow"
+2022-03-01,senior data engineer yoe: v iii0k usd,,"tech stack : nifi, aws emr ec2 s3 lambda , pyspark , shell scripting , etc",etc,,BRL,,(blank),
+2022-03-01,senior data engineer,6.0,us,us,132000.0,USD,132000.0,healthcare,"azure data factory, azure data lake storage, azure databricks, azure delta lake, azure synapse , spark, snowflake"
+2022-03-01,senior bi developer,7.0,uk,uk,55000.0,GBP,67463.08568771073,energy,"mssql, python, aws, azure"
+2022-03-01,data engineer,,netherlands,netherlands,70000.0,USD,70000.0,agri,"aws, python, kafka, pyspark, airflow, cdk"
+2022-03-01,senior data engineer,5.0,germany,germany,80000.0,EUR,84400.0,gcp azure python airflow spark,
+2022-03-01,data engineer,1.0,germany,germany,66000.0,EUR,69630.0,app/web product startup,"stack: kafka, k8s-cronjobs, bigquery, dbt"
+2022-03-01,data engineer ii,3.0,"midwest, us",us,82000.0,USD,82000.0,stack talend qlik lol,
+2022-03-01,data engineer,8.0,"minneapolis, us",us,100000.0,USD,100000.0,insurance,microsoft
+2022-03-01,data engineer,1.5,mcol/lcol,mcol/lcol,83000.0,USD,83000.0,non-profit,"python , r, sql, azure databricks, docker, r shiny"
+2022-03-01,data engineer,2.0,hcol,hcol,125000.0,USD,125000.0,tech,"tech stack: sql, spark, scala, airflow"
+2022-03-01,data engineering manager,4.0,us,us,150000.0,USD,150000.0,tech,
+2022-03-01,manager data & analytics,6.0,"nashville, us",us,130000.0,USD,130000.0,healthcare,microsoft bi stack  + python
+2022-03-01,data engineer,2.0,"bay area, us",us,180000.0,USD,180000.0,ai,"gcp, databricks, bigquery, looker, pubsub, k8s, python, pyspark, sql"
+2022-03-01,data engineer,,germany,germany,60000.0,EUR,63300.0,media,
+2022-03-01,data engineer,1.5,"washington dc, us",us,110000.0,USD,110000.0,tech,"python, sql, aws, databricks, pyspark, kafka, snowflake"
+2022-03-01,data analyst,1.0,canada,canada,90000.0,CAD,69509.51683748169,hospitality,sql & python
+2022-03-01,data engineer,2.4,uk,uk,52000.0,GBP,63783.2810138356,telco,"aws/gcp - aws glue/ athena / lambda/ sql/ step functions/ sns/ kafka / dynamodb. | gcp - cloud procs, data flow, bq  python, javascript. pretty skilled with azure as i worked in a consultancy doing e2e cloud migrations for about 1.8 years."
+2022-03-01,lead data engineer,5.0,us,us,145000.0,USD,145000.0,education,"python , rethinkdb"
+2022-03-01,database administator,4.0,uk,uk,30000.0,GBP,36798.046738751305,healthcare,"sql, r, python"
+2022-03-01,data engineer,,yoe: 8. six months at this job and 7.5 as an analyst with the last 2 being more of an analytics engineer. ~2.5 years with python and sql. no degree.,yoe: 8. six months a,130000.0,USD,130000.0,(blank),
+2022-03-01,data engineer,,"10 years overall, 5 years of de experience",5 years of de experi,75000.0,EUR,79125.0,ecommerce,
+2022-03-01,data engineer,,"minnesota, us",us,100000.0,USD,100000.0,healthcare,"python, pyspark, docker, aws, airflow, sql, dbt"
+2022-03-01,technical lead,5.0,"london, uk",uk,63000.0,GBP,77275.89815137774,consulting,"azure adf, databricks, pyspark, postgresql / sqlserver, react, django"
+2022-03-01,data scientist,1.0,india,india,1200000000.0,INR,,tech,
+2022-03-01,data engineer,5.0,colombia,colombia,1564000.0,COP,,finance,
+2022-03-01,data engineering manager,6.5,uk,uk,63500.0,USD,63500.0,media,"informatica, ab initio, sql, python"
+2022-03-01,software engineer data,2.0,"bay area, us",us,145000.0,USD,145000.0,ai,"airflow, aws, kinesis, lambda, step functions, glue, s3, rds, python, sql"
+2022-03-01,data engineer,5.0,remote,remote,100000.0,USD,100000.0,(blank),
+2022-03-01,data engineer,2.5,"london, uk",uk,57000.0,GBP,69916.28880362748,(blank),
+2022-03-01,associate data engineer,1.5,"tennessee, us",us,61300.0,USD,61300.0,tech,"adls, python, golang, sql, no-sql, power bi, spark, sci-kit learn, loooots of self-made software "
+2022-03-01,analytics system admin,,"midwest, us",us,95000.0,USD,95000.0,(blank),
+2022-06-01,data engineer,1.0,remote,remote,95000.0,USD,95000.0,healthcare,"python,  aws."
+2022-06-01,data engineer intern,0.0,france,france,12000.0,EUR,12660.0,finance,"python, airflow, aws , bigquery, docker, postgres"
+2022-06-01,data engineer,10.0,"london, uk",uk,120000.0,GBP,147192.18695500522,telco,"presto, spark, airflow"
+2022-06-01,data engineer,,"new york, us",us,100000.0,USD,100000.0,finance,oracle and python
+2022-06-01,data engineer,3.0,"virginia, us",us,110000.0,USD,110000.0,consulting,"python, sql, aws"
+2022-06-01,senior data engineer,10.0,spain,spain,100000.0,EUR,105500.0,saas,"redshift, pyspark, emr, airflow..."
+2022-06-01,data engineer,,"ohio, us",us,8500000.0,USD,,marketing,"i'm told initial focus will be on creating a clean data warehouse, as well as working within powerbi, azure synapse, d365 ecosystem. so a lot of sql. should also be some python in there as well."
+2022-06-01,generic programmer,1.0,spain,spain,21000.0,EUR,22155.0,tech,
+2022-06-01,data scientist,3.5,us,us,110000.0,USD,110000.0,weather,"python, c++, sql, r, aws, prefect"
+2022-06-01,senior infrastructure data engineer,3.0,"toronto, canada",canada,115000.0,CAD,88817.71595900437,finance,postgres/eks/aws/iac
+2022-06-01,data engineer,4.0,"midwest, us",us,145000.0,USD,145000.0,tech,"airflow, python, dbt"
+2022-06-01,senior integration engineer,6.0,"colorado, us",us,175000.0,USD,175000.0,(blank),
+2022-06-01,data engineer,5.0,"midwest, us",us,140000.0,USD,140000.0,python/airflow/aws/terraform,
+2022-06-01,data engineer,0.0,"new york, us",us,51000.0,USD,51000.0,tech,sql | python | c#
+2022-06-01,application developer ii,3.0,"midwest, us",us,83000.0,USD,83000.0,tech,"role i’m interviewing for rn: data engineer/ 110k/ midwest/ working with cloud, spark, python, airflow, and many more/ logistics supply chain company."
+2022-06-01,data engineer,2.0,us,us,152000.0,USD,152000.0,telco,"tech stack: on-prem private cloud, airflow, nifi, spark, trino, sql, python"
+2022-06-01,data engineer,3.0,philippines,philippines,780000.0,PHP,14360.254083484571,python sql rds dms kinesis lambda  s3 glue athena redshiftec2 airflow git for version control,
+2022-06-01,data warehouse manager,34.0,"new orleans, us",us,88000.0,USD,88000.0,non-profit,"azure, databricks, pyspark"
+2022-06-01,data engineer intern,,brazil,brazil,100000.0,BRL,19386.25505328923,python sql aws  terraform postgres,
+2022-06-01,data engineer,2.0,"washington dc, us",us,100000.0,USD,100000.0,media,"tech stack: aws, python, airflow"
+2022-06-01,junior data engineer,0.0,"atlanta, us",us,60000.0,USD,60000.0,government,"r, postgresql"
+2022-06-01,bi analyst,0.16666666666666666,baltic states,baltic states,21600.0,EUR,22788.0,healthcare,"mysql, python"
+2022-06-01,geospatial data engineer,1.0,"toronto, canada",canada,70000.0,CAD,54062.95754026353,saas,"snowflake, azure databricks, alteryx, arcgis"
+2022-06-01,data engineer,9.0,"bay area, us",us,190000.0,USD,190000.0,tech,"presto,spark, proprietary pipeline tool and proprietary dash boarding tool."
+2022-06-01,data engineer,3.0,"texas, us",us,140000.0,USD,140000.0,finance,"sql, python, azure "
+2022-06-01,data engineer,1.0,us,us,26400.0,EUR,27852.0,insurance,azure stack 
+2022-06-01,senior data engineer,3.0,"bay area, us",us,190000.0,USD,190000.0,ecommerce,"airflow, spark, kafka, aws"
+2022-06-01,data analyst,3.0,canada,canada,90000.0,CAD,69509.51683748169,(blank),
+2022-06-01,senior data engineer,,"seattle, us",us,165000.0,USD,165000.0,media,"aws, airflow, spark, some other devops tools"
+2022-06-01,data engineer,0.08333333333333333,"virginia, us",us,102000.0,USD,102000.0,government,"python, sql, unfortunately no cloud resources lol"
+2022-06-01,data engineer,8.0,"london, uk",uk,80000.0,GBP,98128.12463667015,asset management,"sql, azure data factory, python "
+2022-06-01,data engineer i,,"michigan, us",us,145000.0,USD,145000.0,cannabis,"stack/libs: python, pandas, postgresql, boto3, airflow, snowflake, dbt, streamsets"
+2022-06-01,data engineer i,0.5,"bay area, us",us,87000.0,USD,87000.0,non-profit,"python, mysql, aws, r, ruby"
